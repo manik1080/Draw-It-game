@@ -18,7 +18,7 @@ decoder = {'airplane': [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
  'fish': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0]}
 
 # model = tf.keras.models.load_model('drawGuesser_lite.tflite', compile=False)
-interpreter = tf.lite.Interpreter(model_path="drawGuesser_lite.tflite")
+interpreter = tf.lite.Interpreter(model_path="model/drawGuesser_lite.tflite")
 interpreter.allocate_tensors()
 input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
