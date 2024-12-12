@@ -1,21 +1,23 @@
-MIT License
+### Limited Use License Agreement
 
-Copyright (c) 2024 Manik Singh
+Copyright (C) 2024 Manik Singh
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated assets (the "Game"), to use it for personal, non-commercial purposes only, subject to the following restrictions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **Prohibited Uses**:
+   - The Game, its code, assets, or any derivative work based on it, may NOT be used for:
+     a. Commercial purposes, including but not limited to distribution, sublicensing, or monetization.
+     b. Replication or reproduction for purposes of publication, sale, or inclusion in other projects.
+     c. Filing patents or intellectual property claims based on the Game or its derivatives.
+     d. Claiming ownership or authorship of the code, its ideas, or its assets.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. **Attribution**:
+   - Credit must be given to the original author(s) in any references to the Game.
+
+3. **Modification**:
+   - Modifications to the code or assets are permitted solely for personal use.
+
+4. **No Warranty**:
+   - THE GAME IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE GAME OR ITS USE.
+
+By using this Game, you agree to the terms of this License.
