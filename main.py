@@ -12,7 +12,7 @@ class DrawGuesserGame:
         self.cam.set(3, self.camw)
         self.cam.set(4, self.camh)
         self.hand_tracker = mp.solutions.hands.Hands(min_detection_confidence=0.8)
-        self.interpreter = tf.lite.Interpreter(model_path=r"C:/Users/91880/Downloads/DrawGuesser/drawGuesser_lite.tflite")
+        self.interpreter = tf.lite.Interpreter(model_path=r"model/drawGuesser_lite.tflite")
         self.interpreter.allocate_tensors()
         self.input_details = self.interpreter.get_input_details()
         self.output_details = self.interpreter.get_output_details()
